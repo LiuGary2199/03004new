@@ -1,0 +1,713 @@
+﻿========================================
+修复时间：2026-01-30 08:21:33
+========================================
+
+【文件】Assets\Script\CommonTool\ObjectPool\OutletTombWrapper.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Tire → Bite
+  ├─ 位置：第35行（普通形式）
+  ├─ 替换前：Tire
+  └─ 替换后：Bite
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Yew → Bis
+  ├─ 位置：第44行（普通形式）
+  ├─ 替换前：Yew
+  └─ 替换后：Bis
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Primary → Element
+  ├─ 位置：第53行（普通形式）
+  ├─ 替换前：Primary
+  └─ 替换后：Element
+
+【文件】Assets\Script\CommonTool\NetWork\MudFailWrapper.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：HeDecease → ItLiberty
+  ├─ 位置：第353行（普通形式）
+  ├─ 替换前：HeDecease
+  └─ 替换后：ItLiberty
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：BayRetreat → BayIsotope
+  ├─ 位置：第353行、第357行、第358行（普通形式）
+  ├─ 替换前：BayRetreat
+  └─ 替换后：BayIsotope
+
+【文件】Assets\Script\Controller\FlyBox\RawPegDelectable.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：HubFewCausal → GapWhyChorus
+  ├─ 位置：第74行（普通形式）
+  ├─ 替换前：HubFewCausal
+  └─ 替换后：GapWhyChorus
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：HubFewKinglet → GapWhyNucleic
+  ├─ 位置：第82行（普通形式）
+  ├─ 替换前：HubFewKinglet
+  └─ 替换后：GapWhyNucleic
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：RawInvent → RawEncase
+  ├─ 位置：第95行（普通形式）
+  ├─ 替换前：RawInvent
+  └─ 替换后：RawEncase
+
+【文件】Assets\Script\Pusher\PusherManager.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireTombWrapper → BiteGameThinker
+  ├─ 位置：第67行（普通形式）
+  ├─ 替换前：TireTombWrapper
+  └─ 替换后：BiteGameThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Crew → Spin
+  ├─ 位置：第187行、第199行、第739行、第759行、第791行...等6处（普通形式）
+  ├─ 替换前：Crew
+  └─ 替换后：Spin
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：WearyVictimize → TheftPersevere
+  ├─ 位置：第190行（普通形式）
+  ├─ 替换前：WearyVictimize
+  └─ 替换后：TheftPersevere
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：BudgetVictimize → QuiverPersevere
+  ├─ 位置：第202行（普通形式）
+  ├─ 替换前：BudgetVictimize
+  └─ 替换后：QuiverPersevere
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LopBadgeEnough → AgeMetalBreath
+  ├─ 位置：第467行（普通形式）
+  ├─ 替换前：LopBadgeEnough
+  └─ 替换后：AgeMetalBreath
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：YewOutlet → BisPiston
+  ├─ 位置：第478行、第806行（普通形式）
+  ├─ 替换前：YewOutlet
+  └─ 替换后：BisPiston
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：initRewardItem → MealRegimeTell
+  ├─ 位置：第479行、第809行、第819行（普通形式）
+  ├─ 替换前：initRewardItem
+  └─ 替换后：MealRegimeTell
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Table → Brown
+  ├─ 位置：第526行（普通形式）
+  ├─ 替换前：Table
+  └─ 替换后：Brown
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Railroad → Cohesive
+  ├─ 位置：第636行、第660行（普通形式）
+  ├─ 替换前：Railroad
+  └─ 替换后：Cohesive
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：FX_Peace → FX_Urban
+  ├─ 位置：第638行、第662行（普通形式）
+  ├─ 替换前：FX_Peace
+  └─ 替换后：FX_Urban
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：JungleGerm → MarrowThen
+  ├─ 位置：第687行（普通形式）
+  ├─ 替换前：JungleGerm
+  └─ 替换后：MarrowThen
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardType → RussiaWick
+  ├─ 位置：第741行、第744行、第761行、第764行（普通形式）
+  ├─ 替换前：rewardType
+  └─ 替换后：RussiaWick
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardNum → RussiaPet
+  ├─ 位置：第210行、第221行、第745行、第765行（普通形式）
+  ├─ 替换前：rewardNum
+  └─ 替换后：RussiaPet
+
+【文件】Assets\Script\Pusher\RevealCrabPegCharcoal.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardType → RussiaWick
+  ├─ 位置：第23行（普通形式）
+  ├─ 替换前：rewardType
+  └─ 替换后：RussiaWick
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardNum → RussiaPet
+  ├─ 位置：第24行（普通形式）
+  ├─ 替换前：rewardNum
+  └─ 替换后：RussiaPet
+
+【文件】Assets\Script\Pusher\MidairRevealCharcoal.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardType → RussiaWick
+  ├─ 位置：第35行、第37行（普通形式）
+  ├─ 替换前：rewardType
+  └─ 替换后：RussiaWick
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardNum → RussiaPet
+  ├─ 位置：第37行（普通形式）
+  ├─ 替换前：rewardNum
+  └─ 替换后：RussiaPet
+
+【文件】Assets\Script\Slot\CrabGelCreepDelectable.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireHallTanker → BiteSpanMoment
+  ├─ 位置：第44行、第63行、第95行（普通形式）
+  ├─ 替换前：TireHallTanker
+  └─ 替换后：BiteSpanMoment
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireHallAnHall → BiteSpanAnSpan
+  ├─ 位置：第59行、第91行（普通形式）
+  ├─ 替换前：TireHallAnHall
+  └─ 替换后：BiteSpanAnSpan
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：PestGelHall → SaltWokHall
+  ├─ 位置：第71行（普通形式）
+  ├─ 替换前：PestGelHall
+  └─ 替换后：SaltWokHall
+
+【文件】Assets\Script\Pusher\KindCommonFinnish.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Table → Brown
+  ├─ 位置：第26行（普通形式）
+  ├─ 替换前：Table
+  └─ 替换后：Brown
+
+【文件】Assets\Script\Slot\CrabWrapper.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：GeneticHall → TrolleySpan
+  ├─ 位置：第46行、第47行、第48行（普通形式）
+  ├─ 替换前：GeneticHall
+  └─ 替换后：TrolleySpan
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：StatueSunlitGel → WinnerFecundWok
+  ├─ 位置：第80行、第81行、第82行、第86行、第87行...等6处（普通形式）
+  ├─ 替换前：StatueSunlitGel
+  └─ 替换后：WinnerFecundWok
+
+【文件】Assets\Script\Pusher\Plinko\NeedleWrapper.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：WearyVictimize → TheftPersevere
+  ├─ 位置：第76行（普通形式）
+  ├─ 替换前：WearyVictimize
+  └─ 替换后：TheftPersevere
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：BudgetVictimize → QuiverPersevere
+  ├─ 位置：第86行（普通形式）
+  ├─ 替换前：BudgetVictimize
+  └─ 替换后：QuiverPersevere
+
+【文件】Assets\Script\UI\NonstopCaputScore.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TwigHallGate → LawnSpanGate
+  ├─ 位置：第52行（普通形式）
+  ├─ 替换前：TwigHallGate
+  └─ 替换后：LawnSpanGate
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireHall → BiteSpan
+  ├─ 位置：第53行（普通形式）
+  ├─ 替换前：TireHall
+  └─ 替换后：BiteSpan
+
+【文件】Assets\Script\UI\PeskyDeedScore.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireLaunchGelHall → BiteMutualWokSpan
+  ├─ 位置：第82行、第182行（普通形式）
+  ├─ 替换前：TireLaunchGelHall
+  └─ 替换后：BiteMutualWokSpan
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireSunlitGelHall → BiteFecundWokSpan
+  ├─ 位置：第88行、第170行（普通形式）
+  ├─ 替换前：TireSunlitGelHall
+  └─ 替换后：BiteFecundWokSpan
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：Ox_Down → We_Feat
+  ├─ 位置：第91行、第151行、第169行（普通形式）
+  ├─ 替换前：Ox_Down
+  └─ 替换后：We_Feat
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：SoMob → OnFog
+  ├─ 位置：第112行、第166行、第180行（普通形式）
+  ├─ 替换前：SoMob
+  └─ 替换后：OnFog
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CradLandslide → LoopExemplify
+  ├─ 位置：第111行、第166行、第180行（普通形式）
+  ├─ 替换前：CradLandslide
+  └─ 替换后：LoopExemplify
+
+【文件】Assets\Script\UI\DemiseVasKrillScore.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireHall → BiteSpan
+  ├─ 位置：第123行、第135行、第136行、第163行、第164行...等6处（普通形式）
+  ├─ 替换前：TireHall
+  └─ 替换后：BiteSpan
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：BalticBedFair → SteppeElkPloy
+  ├─ 位置：第227行、第232行、第237行（普通形式）
+  ├─ 替换前：BalticBedFair
+  └─ 替换后：SteppeElkPloy
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：YewDemiseVasSunlit → BisPatentAilFecund
+  ├─ 位置：第285行、第290行、第295行（普通形式）
+  ├─ 替换前：YewDemiseVasSunlit
+  └─ 替换后：BisPatentAilFecund
+
+【文件】Assets\Script\UI\ExecuteDeedScore.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：TireHall → BiteSpan
+  ├─ 位置：第198行（普通形式）
+  ├─ 替换前：TireHall
+  └─ 替换后：BiteSpan
+
+【文件】Assets\Script\Pusher\YewRevealCharcoal.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardType → RussiaWick
+  ├─ 位置：第14行、第24行、第41行、第56行、第77行（普通形式）
+  ├─ 替换前：rewardType
+  └─ 替换后：RussiaWick
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：YewOutlet → BisPiston
+  ├─ 位置：第21行、第43行、第44行（普通形式）
+  ├─ 替换前：YewOutlet
+  └─ 替换后：BisPiston
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：rewardNum → RussiaPet
+  ├─ 位置：第59行、第64行、第77行（普通形式）
+  ├─ 替换前：rewardNum
+  └─ 替换后：RussiaPet
+
+========================================
+本次修复统计：
+- 修复文件数：15
+- 修复名称数：35
+- 总替换次数：107
+- 正向替换：107次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-01-30 08:21:52
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\BuildEditScript.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastSum → FirmCry
+  ├─ 位置：第47行、第204行（普通形式）
+  ├─ 替换前：LastSum
+  └─ 替换后：FirmCry
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahTone → WideTusk
+  ├─ 位置：第72行、第203行（普通形式）
+  ├─ 替换前：UtahTone
+  └─ 替换后：WideTusk
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：VoyageID → UniqueID
+  ├─ 位置：第186行（普通形式）
+  ├─ 替换前：VoyageID
+  └─ 替换后：UniqueID
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastGrantSum → FirmIdiomCry
+  ├─ 位置：第205行（普通形式）
+  ├─ 替换前：LastGrantSum
+  └─ 替换后：FirmIdiomCry
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastScreamSum → FirmChiselCry
+  ├─ 位置：第206行（普通形式）
+  ├─ 替换前：LastScreamSum
+  └─ 替换后：FirmChiselCry
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastFastSum → FirmTiltCry
+  ├─ 位置：第207行（普通形式）
+  ├─ 替换前：LastFastSum
+  └─ 替换后：FirmTiltCry
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastCosmosSum → FirmVagaryCry
+  ├─ 位置：第208行（普通形式）
+  ├─ 替换前：LastCosmosSum
+  └─ 替换后：FirmVagaryCry
+
+========================================
+本次修复统计：
+- 修复文件数：16
+- 修复名称数：7
+- 总替换次数：9
+- 正向替换：9次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-01-30 08:40:40
+========================================
+
+【文件】Assets\A\ATaskPanel_B.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastUITruck → FirmUICharm
+  ├─ 位置：第5行（普通形式）
+  ├─ 替换前：LastUITruck
+  └─ 替换后：FirmUICharm
+
+【文件】Assets\CashOut\CashOutPanel.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastUITruck → FirmUICharm
+  ├─ 位置：第10行（普通形式）
+  ├─ 替换前：LastUITruck
+  └─ 替换后：FirmUICharm
+
+【文件】Assets\A\ATimerPanel_A.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：LastUITruck → FirmUICharm
+  ├─ 位置：第6行（普通形式）
+  ├─ 替换前：LastUITruck
+  └─ 替换后：FirmUICharm
+
+【文件】Assets\CashOut\CashOutManager.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MonoWeightily< → GistThickness<
+  ├─ 位置：第14行（泛型形式）
+  ├─ 替换前：MonoWeightily<
+  └─ 替换后：GistThickness<
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MonoWeightily → GistThickness
+  ├─ 位置：第14行（普通形式）
+  ├─ 替换前：MonoWeightily
+  └─ 替换后：GistThickness
+
+========================================
+本次修复统计：
+- 修复文件数：20
+- 修复名称数：3
+- 总替换次数：5
+- 正向替换：5次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-01-30 08:40:47
+========================================
+
+【文件】Assets\A\ATaskPanel_B.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahHallWrapper → WideSpanThinker
+  ├─ 位置：第26行、第94行、第95行、第113行、第114行（普通形式）
+  ├─ 替换前：UtahHallWrapper
+  └─ 替换后：WideSpanThinker
+
+【文件】Assets\CashOut\CashOutPanel.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudHourJaw → TanGenuUSA
+  ├─ 位置：第92行、第93行、第96行、第99行、第136行...等7处（普通形式）
+  ├─ 替换前：MudHourJaw
+  └─ 替换后：TanGenuUSA
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ToilHallWrapper → AkinSpanThinker
+  ├─ 位置：第143行、第163行、第226行、第246行（普通形式）
+  ├─ 替换前：ToilHallWrapper
+  └─ 替换后：AkinSpanThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CorrectFingerSpoil → ShrubbyRejoinFleet
+  ├─ 位置：第162行（普通形式）
+  ├─ 替换前：CorrectFingerSpoil
+  └─ 替换后：ShrubbyRejoinFleet
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CScream → CChisel
+  ├─ 位置：第162行、第163行（普通形式）
+  ├─ 替换前：CScream
+  └─ 替换后：CChisel
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CedarWrapper → CheerThinker
+  ├─ 位置：第216行、第221行、第243行、第515行（普通形式）
+  ├─ 替换前：CedarWrapper
+  └─ 替换后：CheerThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：DaleBulgeScript → SelfSheerRibbon
+  ├─ 位置：第578行（普通形式）
+  ├─ 替换前：DaleBulgeScript
+  └─ 替换后：SelfSheerRibbon
+
+【文件】Assets\A\ATimerPanel_A.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahHallWrapper → WideSpanThinker
+  ├─ 位置：第21行、第22行、第44行、第101行、第102行...等8处（普通形式）
+  ├─ 替换前：UtahHallWrapper
+  └─ 替换后：WideSpanThinker
+
+【文件】Assets\CashOut\CashOutManager.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ToilHallWrapper → AkinSpanThinker
+  ├─ 位置：第39行、第40行、第133行、第187行、第198行...等20处（普通形式）
+  ├─ 替换前：ToilHallWrapper
+  └─ 替换后：AkinSpanThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudHourJaw → TanGenuUSA
+  ├─ 位置：第49行、第95行、第121行、第122行、第124行（普通形式）
+  ├─ 替换前：MudHourJaw
+  └─ 替换后：TanGenuUSA
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：PhotographerWrapper → IrreversibleThinker
+  ├─ 位置：第50行、第51行、第53行（普通形式）
+  ├─ 替换前：PhotographerWrapper
+  └─ 替换后：IrreversibleThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：DaleBulgeScript → SelfSheerRibbon
+  ├─ 位置：第151行、第391行、第530行、第941行（普通形式）
+  ├─ 替换前：DaleBulgeScript
+  └─ 替换后：SelfSheerRibbon
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CScream → CChisel
+  ├─ 位置：第260行、第294行（普通形式）
+  ├─ 替换前：CScream
+  └─ 替换后：CChisel
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudFailWrapper → TanToilThinker
+  ├─ 位置：第282行、第361行、第430行、第484行、第536行...等12处（普通形式）
+  ├─ 替换前：MudFailWrapper
+  └─ 替换后：TanToilThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CedarWrapper → CheerThinker
+  ├─ 位置：第338行、第349行、第465行、第512行（普通形式）
+  ├─ 替换前：CedarWrapper
+  └─ 替换后：CheerThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CosmosTireWrapper → VagaryBiteThinker
+  ├─ 位置：第642行（普通形式）
+  ├─ 替换前：CosmosTireWrapper
+  └─ 替换后：VagaryBiteThinker
+
+【文件】Assets\A\ATaskItem_B.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahHallWrapper → WideSpanThinker
+  ├─ 位置：第29行、第98行（普通形式）
+  ├─ 替换前：UtahHallWrapper
+  └─ 替换后：WideSpanThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahScore → WideSkill
+  ├─ 位置：第99行（普通形式）
+  ├─ 替换前：UtahScore
+  └─ 替换后：WideSkill
+
+【文件】Assets\A\ATimerItem_A.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahScore → WideSkill
+  ├─ 位置：第105行（普通形式）
+  ├─ 替换前：UtahScore
+  └─ 替换后：WideSkill
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：UtahHallWrapper → WideSpanThinker
+  ├─ 位置：第104行、第109行（普通形式）
+  ├─ 替换前：UtahHallWrapper
+  └─ 替换后：WideSpanThinker
+
+【文件】Assets\CashOut\CashOutEnter.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudHourJaw → TanGenuUSA
+  ├─ 位置：第46行（普通形式）
+  ├─ 替换前：MudHourJaw
+  └─ 替换后：TanGenuUSA
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：OfferJaw → GooseUSA
+  ├─ 位置：第74行（普通形式）
+  ├─ 替换前：OfferJaw
+  └─ 替换后：GooseUSA
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：OfferFist → GooseCity
+  ├─ 位置：第74行（普通形式）
+  ├─ 替换前：OfferFist
+  └─ 替换后：GooseCity
+
+【文件】Assets\Script\Util\GameUtil.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudHourJaw → TanGenuUSA
+  ├─ 位置：第16行、第17行、第43行、第84行、第95行...等20处（普通形式）
+  ├─ 替换前：MudHourJaw
+  └─ 替换后：TanGenuUSA
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ToilHallWrapper → AkinSpanThinker
+  ├─ 位置：第44行、第245行、第247行、第268行、第299行...等12处（普通形式）
+  ├─ 替换前：ToilHallWrapper
+  └─ 替换后：AkinSpanThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CScream → CChisel
+  ├─ 位置：第44行、第245行、第247行、第268行、第299行...等12处（普通形式）
+  ├─ 替换前：CScream
+  └─ 替换后：CChisel
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：KettleSure → BurrowLift
+  ├─ 位置：第249行、第308行、第328行（普通形式）
+  ├─ 替换前：KettleSure
+  └─ 替换后：BurrowLift
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：DisuseSure → CartonLift
+  ├─ 位置：第300行、第391行、第392行（普通形式）
+  ├─ 替换前：DisuseSure
+  └─ 替换后：CartonLift
+
+========================================
+本次修复统计：
+- 修复文件数：24
+- 修复名称数：15
+- 总替换次数：147
+- 正向替换：147次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-01-30 08:40:52
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\AudioVolumeEditWindow.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：AudioModel → AudioParis
+  ├─ 位置：第12行、第13行、第30行、第31行、第37行...等10处（普通形式）
+  ├─ 替换前：AudioModel
+  └─ 替换后：AudioParis
+
+========================================
+本次修复统计：
+- 修复文件数：25
+- 修复名称数：1
+- 总替换次数：15
+- 正向替换：15次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-01-30 08:40:57
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\BuildEditScript.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudHourJaw → TanGenuUSA
+  ├─ 位置：第47行、第72行、第203行、第204行、第205行...等8处（普通形式）
+  ├─ 替换前：MudHourJaw
+  └─ 替换后：TanGenuUSA
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ADWrapper → ADThinker
+  ├─ 位置：第57行、第62行、第67行、第158行、第159行...等6处（普通形式）
+  ├─ 替换前：ADWrapper
+  └─ 替换后：ADThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CosmosTireWrapper → VagaryBiteThinker
+  ├─ 位置：第174行、第178行、第183行、第186行（普通形式）
+  ├─ 替换前：CosmosTireWrapper
+  └─ 替换后：VagaryBiteThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：DivaAnWrapper → WarnAnThinker
+  ├─ 位置：第188行、第190行、第194行、第197行（普通形式）
+  ├─ 替换前：DivaAnWrapper
+  └─ 替换后：WarnAnThinker
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：CScream → CChisel
+  ├─ 位置：第205行、第206行、第207行、第208行、第212行...等7处（普通形式）
+  ├─ 替换前：CScream
+  └─ 替换后：CChisel
+
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：MudFailWrapper → TanToilThinker
+  ├─ 位置：第219行（普通形式）
+  ├─ 替换前：MudFailWrapper
+  └─ 替换后：TanToilThinker
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\AudioVolumeEditWindow.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：OfferFist → GooseCity
+  ├─ 位置：第44行、第63行（普通形式）
+  ├─ 替换前：OfferFist
+  └─ 替换后：GooseCity
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\SuperBuildWindow.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：YewMortarHall → BisIndigoSpan
+  ├─ 位置：第101行、第110行（普通形式）
+  ├─ 替换前：YewMortarHall
+  └─ 替换后：BisIndigoSpan
+
+========================================
+本次修复统计：
+- 修复文件数：26
+- 修复名称数：8
+- 总替换次数：34
+- 正向替换：34次
+- 反向替换：0次
+========================================
+
+
+========================================
+修复时间：2026-01-30 08:41:05
+========================================
+
+【文件】Assets\_DevTools\_MrYuToolBox\Editor\BuildEditScript.cs
+  ├─ 替换类型：正向替换（键→值）
+  ├─ 替换：ToilHallWrapper → AkinSpanThinker
+  ├─ 位置：第223行（普通形式）
+  ├─ 替换前：ToilHallWrapper
+  └─ 替换后：AkinSpanThinker
+
+========================================
+本次修复统计：
+- 修复文件数：26
+- 修复名称数：1
+- 总替换次数：1
+- 正向替换：1次
+- 反向替换：0次
+========================================
+
+

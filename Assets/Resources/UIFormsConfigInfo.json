@@ -1,0 +1,79 @@
+{
+    "ConfigInfo": [
+        {
+            "Key": "\u672C\u914D\u7F6E\u6587\u4EF6\u8BF4\u660E"
+        },
+        {
+            "Key": "WideSkill",
+            "Value": "UIPanel\\WideSkill"
+        },
+        {
+            "Key": "MayAilServeSkill",
+            "Value": "UIPanel\\MayAilServeSkill"
+        },
+        {
+            "Key": "GrandmaRiderSkill",
+            "Value": "UIPanel\\GrandmaRiderSkill"
+        },
+        {
+            "Key": "CrownJoinSkill",
+            "Value": "UIPanel\\CrownJoinSkill"
+        },
+        {
+            "Key": "BoonDireGillSkill",
+            "Value": "UIPanel\\BoonDireGillSkill"
+        },
+        {
+            "Key": "BoonFecundSkill",
+            "Value": "UIPanel\\BoonFecundSkill"
+        },
+        {
+            "Key": "BoonPlugSkill",
+            "Value": "UIPanel\\BoonPlugSkill"
+        },
+        {
+            "Key": "PatentAilServeSkill",
+            "Value": "UIPanel\\PatentAilServeSkill"
+        },
+        {
+            "Key": "HoweverJoinSkill",
+            "Value": "UIPanel\\HoweverJoinSkill"
+        },
+        {
+            "Key": "AttemptSkill",
+            "Value": "UIPanel\\AttemptSkill"
+        },
+        {
+            "Key": "RatHuntAttemptSkill",
+            "Value": "UIPanel\\RatHuntAttemptSkill"
+        },
+        {
+            "Key": "Cheer",
+            "Value": "UIPanel\\Cheer"
+        },
+        {
+            "Key": "WarnAnSkill",
+            "Value": "UIPanel\\WarnAnSkill"
+        },
+        {
+            "Key": "CashOutPanel",
+            "Value": "UIPanel\\CashOutPanel"
+        },
+        {
+            "Key": "LavishUser",
+            "Value": "UIPanel\\LavishUser"
+        },
+        {
+            "Key": "ExceedAcid",
+            "Value": "UIPanel\\ExceedAcid"
+        },
+        {
+            "Key": "AMoundPluto_A",
+            "Value": "UIPanel\\AMoundPluto_A"
+        },
+        {
+            "Key": "AYarnPluto_B",
+            "Value": "UIPanel\\AYarnPluto_B"
+        }
+    ]
+}
