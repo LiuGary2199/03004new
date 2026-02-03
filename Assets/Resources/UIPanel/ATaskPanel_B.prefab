@@ -1556,7 +1556,7 @@ GameObject:
   - component: {fileID: 8586634707990663234}
   - component: {fileID: 2243178107624740068}
   m_Layer: 5
-  m_Name: AYarnPluto_B
+  m_Name: ATaskPanel_B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

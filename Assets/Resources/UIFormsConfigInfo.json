@@ -68,12 +68,12 @@
             "Value": "UIPanel\\ExceedAcid"
         },
         {
-            "Key": "AMoundPluto_A",
-            "Value": "UIPanel\\AMoundPluto_A"
+            "Key": "ATimerPanel_A",
+            "Value": "UIPanel\\ATimerPanel_A"
         },
         {
-            "Key": "AYarnPluto_B",
-            "Value": "UIPanel\\AYarnPluto_B"
+            "Key": "ATaskPanel_B",
+            "Value": "UIPanel\\ATaskPanel_B"
         }
     ]
 }

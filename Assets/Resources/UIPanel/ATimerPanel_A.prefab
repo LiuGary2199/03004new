@@ -2323,7 +2323,7 @@ GameObject:
   - component: {fileID: 7232787274149965408}
   - component: {fileID: 6320165313531103289}
   m_Layer: 5
-  m_Name: AMoundPluto_A
+  m_Name: ATimerPanel_A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

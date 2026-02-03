@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -103,7 +103,9 @@ public class ATimerPanel_A : FirmUICharm
                 int remainingSeconds = WideSpanThinker.BisFeedback().WedEssayDepictionPattern(GourdIt);
                 bool isReady = WideSpanThinker.BisFeedback().MeEssayBirth(GourdIt);
                 
-                if (isReady && status != ATimerStatus_A.Ready)
+                // 只有在未完成状态且时间到了时才设置为可领取状态
+                // 已领取状态不应该被重置
+                if (isReady && status == ATimerStatus_A.Incomplete)
                 {
                     status = ATimerStatus_A.Ready;
                 }

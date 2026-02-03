@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class ATimerItem_A : MonoBehaviour
@@ -97,17 +97,46 @@ public class ATimerItem_A : MonoBehaviour
     /// </summary>
     private void OnClaimReward()
     {
-        if (_Flower != ATimerStatus_A.Ready || _GourdIt < 0)
+        if (_GourdIt < 0)
             return;
         
-        // 领取奖励
-     //   WideSpanThinker.YewVocation().PeskyVagueCustom(_GourdIt);
-        WideSkill.Instance.BisChop(_GourdIt);
-        // 更新状态
+        // 双重检查：先检查本地状态，再检查数据源状态
+        if (_Flower != ATimerStatus_A.Ready)
+            return;
+        
+        // 从数据源再次确认状态，防止状态不同步
+        ATimerStatus_A serverStatus = WideSpanThinker.BisFeedback().WedEssayLimner(_GourdIt);
+        if (serverStatus != ATimerStatus_A.Ready)
+        {
+            // 状态不一致，更新本地状态
+            Sawyer = serverStatus;
+            return;
+        }
+        
+        // 领取奖励（调用正确的方法）
+        WideSkill.Instance.BisChop(1000);
+        
+        // 更新状态为已领取
+        WideSpanThinker.BisFeedback().MayEssayLimner(_GourdIt, ATimerStatus_A.Completed);
         Sawyer = ATimerStatus_A.Completed;
         
+        // 启动下一个计时器（如果还有下一个计时任务）
+        int nextTimerId = _GourdIt + 1;
+        // 检查是否还有下一个计时器（通过检查下一个计时器的时长是否存在）
+        int nextDuration = WideSpanThinker.BisFeedback().WedEssayStrength(nextTimerId);
+        if (nextDuration > 0) // 如果下一个计时器存在
+        {
+            // 检查下一个计时器是否已启动
+            float nextStartTime = WideSpanThinker.BisFeedback().WedEssayLayerFile(nextTimerId);
+            if (nextStartTime < 0) // 如果下一个未启动
+            {
+                // 启动下一个计时器
+                WideSpanThinker.BisFeedback().LayerEssay(nextTimerId);
+            }
+        }
+        
         Debug.Log($"计时器 {_GourdIt} 领取成功，获得 {WideSpanThinker.BisFeedback().WedEssayKorean()} 金币");
-                    DefendSawyerUI();
+        DefendSawyerUI();
     }
 }
 
