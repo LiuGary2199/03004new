@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -90,13 +90,15 @@ public class ReaumurSkill : MonoBehaviour
                 
                 if (BurrowLift.ItChair())
                 {
-                   // SleepFeel.allowSceneActivation = true;
+                    // SleepFeel.allowSceneActivation = true;
+        
                     VerbThinker.Instance.GlenBite();
                     CashOutManager.BisFeedback().ReportEvent_LoadingTime();
                     Destroy(transform.gameObject);
                 }
                 else
                 {
+                    AIGamePlusManager.BisFeedback().SendEvent("pznnyh");
                     // DirectorGel.SetActive(false);
                     // MetalFew.gameObject.SetActive(true);
                     VerbThinker.Instance.GlenBite();

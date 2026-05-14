@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -98,6 +98,13 @@ public class WideSpanThinker : GistThickness<WideSpanThinker>
         // ShrubbySpan md = new ShrubbySpan(oldGold);
         // md.valueTransform = startTransform;
         // ShrubbyRejoinFleet.GetInstance().Send(CChisel.mg_ui_addgold, md);
+        int oldlevel = PlayerPrefs.GetInt("SendLevelChanged", 0);
+        int newlevel = (int)(oldGold / 100);
+        if (newlevel > oldlevel)
+        {
+            AIGamePlusManager.BisFeedback().SendLevelChanged(newlevel);
+            PlayerPrefs.SetInt("SendLevelChanged", newlevel);
+        }
     }
 
     // 现金
@@ -116,6 +123,12 @@ public class WideSpanThinker : GistThickness<WideSpanThinker>
     {
         //AddCash(cash, VerbThinker.Instance.transform);
         CashOutManager.BisFeedback().AddMoney((float)cash);
+
+        if (BisBill() >50 && PlayerPrefs.GetInt("8c6tdy", 0) < 1 )
+        {
+            AIGamePlusManager.BisFeedback().SendEvent("8c6tdy");
+            PlayerPrefs.SetInt("8c6tdy", 1);
+        }
     }
 
     public void BisBill(double cash, Transform startTransform)

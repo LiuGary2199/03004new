@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -48,6 +48,21 @@ public class VerbThinker : MonoBehaviour
             WideSpanThinker.BisFeedback().FancyWitStingerAngryWrite();
             WideSpanThinker.BisFeedback().FancyDieStingerValveFigure();
             WideSpanThinker.BisFeedback().AshcanEssayAppreciablyFile();
+        }
+        else
+        {
+            if (PlayerPrefs.GetInt("m33632") >0)
+            {
+                AIGamePlusManager.BisFeedback().SendEvent("m33632");
+            }
+            if (PlayerPrefs.GetInt("skcdhp") > 0)
+            {
+                AIGamePlusManager.BisFeedback().SendEvent("skcdhp");
+            }
+            if (PlayerPrefs.GetInt("8c6tdy") > 0)
+            {
+                AIGamePlusManager.BisFeedback().SendEvent("8c6tdy");
+            }
         }
     }
 

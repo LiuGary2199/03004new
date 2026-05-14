@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,7 +14,7 @@ public class BurrowLift
     public static bool ItChair()
     {
         //测试
-         //return true;
+        // return true;
         if (PlayerPrefs.HasKey("Save_AP"))  //优先使用本地存档
             Akin_AP = PlayerPrefs.GetString("Save_AP");
         if (string.IsNullOrEmpty(Akin_AP)) //无本地存档 读取网络数据

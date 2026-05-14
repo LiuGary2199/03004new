@@ -1,4 +1,4 @@
-﻿using Lofelt.NiceVibrations;
+using Lofelt.NiceVibrations;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -15,6 +15,8 @@ public class ShaperThinker : MonoBehaviour
 [UnityEngine.Serialization.FormerlySerializedAs("ballPool")]    [UnityEngine.Serialization.FormerlySerializedAs("LuceTomb")]public GameThinker JulyGame;
     bool AllayBore;
     static public ShaperThinker Instance;
+
+    int ballcount = 0;
     private void Awake()
     {
         Instance = this;
@@ -35,6 +37,17 @@ public class ShaperThinker : MonoBehaviour
         ball.transform.position = new Vector3(drop_x, LoverBlaze.transform.position.y, LoverBlaze.transform.position.z);
         ball.transform.localScale = new Vector3(scale, scale, scale);
         ball.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, -20));
+
+        if (PlayerPrefs.GetInt("skcdhp") < 1)
+        {
+            ballcount++;
+            if (ballcount >10)
+            {
+                AIGamePlusManager.BisFeedback().SendEvent("skcdhp");
+                PlayerPrefs.SetInt("skcdhp", 1);
+            }
+        }
+
     }
 
     public void DireGill(float drop_x)

@@ -1,4 +1,4 @@
-﻿// Project: Plinko
+// Project: Plinko
 // FileName: RatBoonVoiceCongestion.cs
 // Author: AX
 // CreateDate: 20230526
@@ -86,6 +86,8 @@ public class RatBoonVoiceCongestion : MonoBehaviour
     private void ReuseWide()
     {
         AkinSpanThinker.GapAttest(CChisel.Ox_Enable_Six_Limy_Pluto, "done");
+        AIGamePlusManager.BisFeedback().SendEvent("m33632");
+        PlayerPrefs.SetInt("m33632", 1);
         VerbThinker.Instance.WidePassage();
     }
 
